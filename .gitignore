@@ -133,3 +133,6 @@ dmypy.json
 
 data/
 *.pth
+
+detect.py
+.vscode/
