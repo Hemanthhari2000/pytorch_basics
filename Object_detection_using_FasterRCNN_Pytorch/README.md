@@ -2,4 +2,4 @@
 
 Run the following notebook and you will see the output something like this.
 
-![](output-2021-04-15.png)
+![](output/output-2021-04-15.png)
